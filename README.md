@@ -1,5 +1,7 @@
 # FP Selection — Galeria de Carros
 
+![image alt](https://github.com/TheusCampos/landingpage-site-car-animation/blob/4ed63b97ee0a26167afbe63f661736cf4517cf87/img/Site-car.png)
+
 Um projeto front-end feito para treinar animações, composição de layout e interações com JavaScript — simulando uma vitrine de carros premium.
 
 O ponto de partida foi um vídeo do YouTube (créditos abaixo). A partir dessa inspiração, o projeto foi evoluindo com novas seções, refinando o visual e ajustando o layout para ficar responsivo em diferentes tamanhos de tela.
